@@ -12,13 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaiNaat&show_icons=true&theme=dracula)
-
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaiNaat&layout=compact&theme=dracula)
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=twicedtna)](https://www.acmicpc.net/user/twicedtna)
 
 
