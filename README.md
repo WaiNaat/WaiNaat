@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![twicedtna](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=twicedtna&theme=white&size=large&compact=1&use_back_color=1&use_border=0&use_shadow=1)](https://www.acmicpc.net/user/twicedtna)
+[![twicedtna](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=twicedtna&theme=white&size=medium&compact=1&use_back_color=1&use_border=0&use_shadow=1)](https://www.acmicpc.net/user/twicedtna)
 
 
 Email: `qoli0703@gmail.com`
