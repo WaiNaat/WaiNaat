@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=twicedtna)](https://www.acmicpc.net/user/twicedtna)
+안녕하세용
+
+[백준](https://www.acmicpc.net/user/twicedtna)
 
 Email: `qoli0703@gmail.com`
