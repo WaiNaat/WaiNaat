@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 안녕하세용
 
 [백준](https://www.acmicpc.net/user/twicedtna)    
-[블로그](https://devmill.tistory.com)
 
 Email: `qoli0703@gmail.com`
